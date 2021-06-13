@@ -3,6 +3,7 @@ misc/coverage.html
 misc/prof.js
 v8.log
 tmp
+.DS_Store
 *.txt
 *.csv
 *.dif
